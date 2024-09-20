@@ -8,5 +8,5 @@
 5. Open `examples.ipynb` and run with `data` kernel
 
 ## Notes
-- `examples.ipynb` is notebook for identifying "high-impact" building types
+- `examples.ipynb` is notebook that walk's through practical analysis examples in Python
 - `pycbecs` is a helper module for working with CBECS data
